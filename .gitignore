@@ -1,0 +1,11 @@
+# frontend
+/tinder-clone/.env
+
+# backend
+api-test/.env
+api-test/node_modules
+api-test/dist
+aws-api/node_modules
+aws-api/dist
+aws-api/sam-template.yaml
+aws-api/sam-template.packaged.yaml
